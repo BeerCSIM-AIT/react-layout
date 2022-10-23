@@ -7,7 +7,7 @@ export default function Navbar() {
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container">
           <NavLink to="/" className="navbar-brand">
-            Foodie
+            Soi 5 Catering
           </NavLink>
           <button
             className="navbar-toggler"
